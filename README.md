@@ -1,5 +1,5 @@
 # Links
-1. Website (https://saxobroko.com)
+1. Website (https://saxobroko.com) or (https://alt.saxobroko.com) if link is dead
 2. YouTube (https://www.youtube.com/saxobroko)
 3. Twitter (https://www.twitter.com/Saxo_BrokoYT)
  <br><br>
