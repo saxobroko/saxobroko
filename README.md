@@ -13,7 +13,11 @@
 
    ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/saxobroko/saxostatus/master/api/alt2/uptime.json)
    ![Response Time](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/saxobroko/saxostatus/master/api/alt2/response-time.json)
+   
+   An ipfs hosted alternative https://ipfs.saxobroko.com (De-Centralised hosting)
 
+   ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/saxobroko/saxostatus/master/api/ipfs/uptime.json)
+   ![Response Time](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/saxobroko/saxostatus/master/api/ipfs/response-time.json)
 
 2. YouTube (https://www.youtube.com/saxobroko)
 3. Twitter (https://www.twitter.com/Saxo_BrokoYT)
