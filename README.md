@@ -3,6 +3,7 @@
 
    ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/saxobroko/saxostatus/master/api/home/uptime.json)
    ![Response Time](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/saxobroko/saxostatus/master/api/home/response-time.json)
+   ![Pagespeed](https://pagespeed-insights.herokuapp.com/?url=https://saxobroko.com)
 
    If main is down https://alt.saxobroko.com (Hosted by GitHub)
 
